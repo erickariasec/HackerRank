@@ -1,6 +1,6 @@
 // Problem: https://www.hackerrank.com/challenges/welcome-to-java/problem
 
-public class E1_WelcomeToJava {
+public class P1_WelcomeToJava {
 
     public static void main(String[] args) {
 
