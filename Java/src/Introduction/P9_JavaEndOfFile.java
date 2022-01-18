@@ -15,7 +15,7 @@ public class P9_JavaEndOfFile {
         }
 
 
-        // hasNextLine is a boolean, it only returns true or false
+        // hasNextLine is a boolean, it only returns True or False
 
 
         /* ANOTHER WAY USING WHILE LOOP
